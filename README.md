@@ -15,17 +15,17 @@
 <p align="center">🎯 Currently working on AI | 📚 Learning AI & Machine Learning | 💡 Fun fact: I consider myself a hardworking individual</p>
 
 ### Skills
-- <i class="fab fa-java"></i> Java
-- <i class="fas fa-code"></i> C
-- <i class="fab fa-code"></i> C++
-- <i class="fab fa-python"></i> Python
-- <i class="fab fa-android"></i> Android Studio
-- <i class="fas fa-brain"></i> Data Structures & Algorithms 
-- <i class="fas fa-database"></i> SQL/MySQL
-- <i class="fab fa-js"></i> JavaScript
-- <i class="fab fa-php"></i> PHP 
-- <i class="fab fa-html5"></i> HTML
-- <i class="fab fa-css3"></i> CSS
+- ⚙️ Java
+- 🅒 C
+- 🅒🅒 C++
+- 🐍 Python
+- 📱 Android Studio
+- 🧠 Data Structures & Algorithms 
+- 🛢️ SQL/MySQL
+- 🌐 JavaScript
+- 💻 PHP 
+- 🌐 HTML
+- 🎨 CSS
 ### Ask Me About
 - Android
 - Python
@@ -34,14 +34,14 @@
 
 ### Connect with Me
   <p align="center">
-  <a href="https://github.com/rahul-kumar-sharma-alx" style="color: white;"><i class="fab fa-github fa-sm"></i></a>
-  <a href="https://www.linkedin.com/in/sharma-rahul-alx/" style="color: white;"><i class="fab fa-linkedin fa-sm"></i></a>
-  <a href="https://www.facebook.com/rahulsharmaalx.sharma" style="color: white;"><i class="fab fa-facebook fa-sm"></i></a>
-  <a href="https://www.instagram.com/_alx_sharma/" style="color: white;"><i class="fab fa-instagram fa-sm"></i></a>
-  <a href="https://twitter.com/Ax68759673" style="color: white;"><i class="fab fa-twitter fa-sm"></i></a>
-  <a href="https://stackoverflow.com/users/21949266/rahul-kumar-sharma" style="color: white;"><i class="fab fa-stack-overflow fa-sm"></i></a>
-  <a href="https://www.youtube.com/channel/UCXYALdNpSBZC-2jcd0pefXw" style="color: white;"><i class="fab fa-youtube fa-sm"></i></a>
-  <a href="https://rahul-kumar-sharma-alx.github.io" style="color: white;"><i class="fas fa-cloud fa-sm"></i></a>
+  <a href="https://github.com/rahul-kumar-sharma-alx"><img src="https://raw.githubusercontent.com/rahul-kumar-sharma-alx/rahul-kumar-sharma-alx/main/images/github.svg" height="25" style="vertical-align:middle"></a>
+  <a href="https://www.linkedin.com/in/sharma-rahul-alx"><img src="https://raw.githubusercontent.com/rahul-kumar-sharma-alx/rahul-kumar-sharma-alx/main/images/linkedin.svg" height="25" style="vertical-align:middle"></a>
+  <a href="https://www.facebook.com/rahulsharmaalx.sharma"><img src="https://raw.githubusercontent.com/rahul-kumar-sharma-alx/rahul-kumar-sharma-alx/main/images/facebook.svg" height="25" style="vertical-align:middle"></a>
+  <a href="https://www.instagram.com/_alx_sharma/"><img src="https://raw.githubusercontent.com/rahul-kumar-sharma-alx/rahul-kumar-sharma-alx/main/images/instagram.svg" height="25" style="vertical-align:middle"></a>
+  <a href="https://twitter.com/Ax68759673"><img src="https://raw.githubusercontent.com/rahul-kumar-sharma-alx/rahul-kumar-sharma-alx/main/images/twitter.svg" height="25" style="vertical-align:middle"></a>
+  <a href="https://stackoverflow.com/users/21949266/rahul-kumar-sharma"><img src="https://raw.githubusercontent.com/rahul-kumar-sharma-alx/rahul-kumar-sharma-alx/main/images/stackoverflow.svg" height="25" style="vertical-align:middle"></a>
+  <a href="https://www.youtube.com/channel/UCXYALdNpSBZC-2jcd0pefXw"><img src="https://raw.githubusercontent.com/rahul-kumar-sharma-alx/rahul-kumar-sharma-alx/main/images/youtube.svg" height="25" style="vertical-align:middle"></a>
+  <a href="https://rahul-kumar-sharma-alx.github.io"><img src="https://raw.githubusercontent.com/rahul-kumar-sharma-alx/rahul-kumar-sharma-alx/main/images/icloud.svg" height="25" style="vertical-align:middle"></a>
 </p>
 ### GitHub Stats
 <p align="center">
