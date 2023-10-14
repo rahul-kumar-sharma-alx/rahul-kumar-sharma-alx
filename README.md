@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Chatbot
-🌱 I’m currently learning AI
+-🔭 I’m currently working on Chatbot
+-🌱 I’m currently learning AI
 👯 I’m looking to collaborate on ...
 🤔 I’m looking for help with ...
 💬 Ask me about ...
