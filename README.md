@@ -1,3 +1,7 @@
+<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"
+/>
 <h1 align="center">Hi there! 👋 I'm Rahul Sharma</h1>
 
 <p align="center">
@@ -11,18 +15,17 @@
 <p align="center">🎯 Currently working on AI | 📚 Learning AI & Machine Learning | 💡 Fun fact: I consider myself a hardworking individual</p>
 
 ### Skills
-- ⚙️ Java
-- 🅒 C
-- 🅒🅒 C++
-- 🐍 Python
-- 📱 Android Studio
-- 🧠 Data Structures & Algorithms 
-- 🛢️ SQL/MySQL
-- 🌐 JavaScript
-- 💻 PHP 
-- 🌐 HTML
-- 🎨 CSS
-
+- <i class="fab fa-java"></i> Java
+- <i class="fas fa-code"></i> C
+- <i class="fab fa-code"></i> C++
+- <i class="fab fa-python"></i> Python
+- <i class="fab fa-android"></i> Android Studio
+- <i class="fas fa-brain"></i> Data Structures & Algorithms 
+- <i class="fas fa-database"></i> SQL/MySQL
+- <i class="fab fa-js"></i> JavaScript
+- <i class="fab fa-php"></i> PHP 
+- <i class="fab fa-html5"></i> HTML
+- <i class="fab fa-css3"></i> CSS
 ### Ask Me About
 - Android
 - Python
