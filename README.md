@@ -12,16 +12,17 @@
 
 ### Skills
 <p align="center">
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/298/android_1f988.png" alt="Java" width="50" />
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/298/snake_1f40d.png" alt="Python" width="50" />
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/298/laptop_1f4bb.png" alt="Android Studio" width="50" />
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/298/brain_1f9e0.png" alt="Data Structures & Algorithms" width="50" />
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/298/large-blue-circle_1f535.png" alt="C" width="50" />
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/298/large-orange-diamond_1f536.png" alt="C++" width="50" />
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/298/desktop-computer_1f5a5.png" alt="JavaScript" width="50" />
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/298/laptop_1f4bb.png" alt="PHP" width="50" />
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/298/database_1f4f7.png" alt="SQL/MySQL" width="50" />
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/298/artist-palette_1f3a8.png" alt="HTML/CSS" width="50" />
+- ⚙️ Java
+- 🅒 C
+- 🅒🅒 C++
+- 🐍 Python
+- 📱 Android Studio
+- 🧠 Data Structures & Algorithms 
+- 🛢️ SQL/MySQL
+- 🌐 JavaScript
+- 💻 PHP 
+- 🌐 HTML
+- 🎨 CSS
 </p>
 
 ### Ask Me About
@@ -32,14 +33,14 @@
 
 ### Connect with Me
 <p align="center">
-  <a href="https://github.com/rahul-kumar-sharma-alx"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="25" style="vertical-align:middle"></a>
-  <a href="https://www.linkedin.com/in/sharma-rahul-alx/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="25" style="vertical-align:middle"></a>
-  <a href="https://www.facebook.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="25" style="vertical-align:middle"></a>
-  <a href="https://www.instagram.com/_alx_sharma/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="25" style="vertical-align:middle"></a>
-  <a href="https://twitter.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="25" style="vertical-align:middle"></a>
-  <a href="https://stackoverflow.com/users/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="25" style="vertical-align:middle"></a>
-  <a href="https://www.youtube.com/channel/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height="25" style="vertical-align:middle"></a>
-  <a href="https://rahul-kumar-sharma-alx.github.io"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" height="25" style="vertical-align:middle"></a>
+  <a href="https://github.com/rahul-kumar-sharma-alx" style="color: white;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="25" style="vertical-align:middle"></a>
+  <a href="https://www.linkedin.com/in/sharma-rahul-alx/" style="color: white;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="25" style="vertical-align:middle"></a>
+  <a href="https://www.facebook.com/rahulsharmaalx.sharma" style="color: white;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="25" style="vertical-align:middle"></a>
+  <a href="https://www.instagram.com/_alx_sharma/" style="color: white;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="25" style="vertical-align:middle"></a>
+  <a href="https://twitter.com/Ax68759673" style="color: white;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="25" style="vertical-align:middle"></a>
+  <a href="https://stackoverflow.com/users/21949266/rahul-kumar-sharma" style="color: white;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="25" style="vertical-align:middle"></a>
+  <a href="https://www.youtube.com/channel/UCXYALdNpSBZC-2jcd0pefXw" style="color: white;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height="25" style="vertical-align:middle"></a>
+  <a href="https://rahul-kumar-sharma-alx.github.io" style="color: white;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" height="25" style="vertical-align:middle"></a>
 </p>
 
 ### GitHub Stats
@@ -75,4 +76,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=rahul-kumar-sharma-alx" alt="Trophy">
 </p>
 
-<!-- Add more animations and creative elements here -->
