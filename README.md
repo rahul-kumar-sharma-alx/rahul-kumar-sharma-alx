@@ -45,7 +45,7 @@
 ![GitHub Streak Stats](https://streak-stats.demolab.com/?user=rahul-kumar-sharma-alx)
 
 ### Profile Views
-![Profile Views](https://gpvc.arturio.dev/rahul-kumar-sharma-alx)
+![Profile views](https://img.shields.io/github/followers/rahul-kumar-sharma-alx?style=social)
 
 ### Achievements
 ![Trophy](https://github-profile-trophy.vercel.app/?username=rahul-kumar-sharma-alx)
