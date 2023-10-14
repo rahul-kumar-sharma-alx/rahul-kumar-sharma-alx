@@ -1,7 +1,4 @@
-<link
-  rel="stylesheet"
-  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
-/>
+
 <h1 align="center">Hi there! 👋 I'm Rahul Sharma</h1>
 
 <p align="center">
@@ -33,16 +30,33 @@
 - Machine Learning
 
 ### Connect with Me
-  <p align="center">
-  <a href="https://github.com/rahul-kumar-sharma-alx"><img src="https://raw.githubusercontent.com/rahul-kumar-sharma-alx/rahul-kumar-sharma-alx/main/images/github.svg" height="25" style="vertical-align:middle"></a>
-  <a href="https://www.linkedin.com/in/sharma-rahul-alx"><img src="https://raw.githubusercontent.com/rahul-kumar-sharma-alx/rahul-kumar-sharma-alx/main/images/linkedin.svg" height="25" style="vertical-align:middle"></a>
-  <a href="https://www.facebook.com/rahulsharmaalx.sharma"><img src="https://raw.githubusercontent.com/rahul-kumar-sharma-alx/rahul-kumar-sharma-alx/main/images/facebook.svg" height="25" style="vertical-align:middle"></a>
-  <a href="https://www.instagram.com/_alx_sharma/"><img src="https://raw.githubusercontent.com/rahul-kumar-sharma-alx/rahul-kumar-sharma-alx/main/images/instagram.svg" height="25" style="vertical-align:middle"></a>
-  <a href="https://twitter.com/Ax68759673"><img src="https://raw.githubusercontent.com/rahul-kumar-sharma-alx/rahul-kumar-sharma-alx/main/images/twitter.svg" height="25" style="vertical-align:middle"></a>
-  <a href="https://stackoverflow.com/users/21949266/rahul-kumar-sharma"><img src="https://raw.githubusercontent.com/rahul-kumar-sharma-alx/rahul-kumar-sharma-alx/main/images/stackoverflow.svg" height="25" style="vertical-align:middle"></a>
-  <a href="https://www.youtube.com/channel/UCXYALdNpSBZC-2jcd0pefXw"><img src="https://raw.githubusercontent.com/rahul-kumar-sharma-alx/rahul-kumar-sharma-alx/main/images/youtube.svg" height="25" style="vertical-align:middle"></a>
-  <a href="https://rahul-kumar-sharma-alx.github.io"><img src="https://raw.githubusercontent.com/rahul-kumar-sharma-alx/rahul-kumar-sharma-alx/main/images/icloud.svg" height="25" style="vertical-align:middle"></a>
+<p align="center">
+  <a href="https://github.com/rahul-kumar-sharma-alx" style="color: white;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="25" style="vertical-align: middle">
+  </a>
+  <a href="https://www.linkedin.com/in/sharma-rahul-alx/" style="color: white;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="25" style="vertical-align: middle">
+  </a>
+  <a href="https://www.facebook.com/rahulsharmaalx.sharma" style="color: white;">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" height="25" style="vertical-align: middle">
+  </a>
+  <a href="https://www.instagram.com/_alx_sharma/" style="color: white;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" height="25" style="vertical-align: middle">
+  </a>
+  <a href="https://twitter.com/Ax68759673" style="color: white;">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" height="25" style="vertical-align: middle">
+  </a>
+  <a href="https://stackoverflow.com/users/21949266/rahul-kumar-sharma" style="color: white;">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=FE7A16" height="25" style="vertical-align: middle">
+  </a>
+  <a href="https://www.youtube.com/channel/UCXYALdNpSBZC-2jcd0pefXw" style="color: white;">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" height="25" style="vertical-align: middle">
+  </a>
+  <a href="https://rahul-kumar-sharma-alx.github.io" style="color: white;">
+    <img src="https://img.shields.io/badge/iCloud-1478F5?style=for-the-badge&logo=icloud&logoColor=white&labelColor=1478F5" height="25" style="vertical-align: middle">
+  </a>
 </p>
+
 ### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahul-kumar-sharma-alx&show_icons=true&count_private=true" alt="GitHub Stats">
