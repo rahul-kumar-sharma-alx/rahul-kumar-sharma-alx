@@ -11,7 +11,6 @@
 <p align="center">🎯 Currently working on AI | 📚 Learning AI & Machine Learning | 💡 Fun fact: I consider myself a hardworking individual</p>
 
 ### Skills
-<p align="center">
 - ⚙️ Java
 - 🅒 C
 - 🅒🅒 C++
@@ -23,7 +22,6 @@
 - 💻 PHP 
 - 🌐 HTML
 - 🎨 CSS
-</p>
 
 ### Ask Me About
 - Android
