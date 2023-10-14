@@ -23,32 +23,14 @@
 - Machine Learning
 
 ### Connect with Me
-<div style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://github.com/rahul-kumar-sharma-alx" style="color: white;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="25" style="vertical-align:middle">
-  </a>
-  <a href="https://www.linkedin.com/in/sharma-rahul-alx/" style="color: red;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="25" style="vertical-align:middle">
-  </a>
-  <a href="https://www.facebook.com" style="color: white;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="25" style="vertical-align:middle">
-  </a>
-  <a href="https://www.instagram.com/_alx_sharma/" style="color: red;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="25" style="vertical-align:middle">
-  </a>
-  <a href="https://twitter.com" style="color: white;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="25" style="vertical-align:middle">
-  </a>
-  <a href="https://stackoverflow.com/users/" style="color: red;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="25" style="vertical-align:middle">
-  </a>
-  <a href="https://www.youtube.com/channel/" style="color: white;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height="25" style="vertical-align:middle">
-  </a>
-  <a href="https://rahul-kumar-sharma-alx.github.io" style="color: red;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" height="25" style="vertical-align:middle">
-  </a>
-</div>
+<a href="https://github.com/rahul-kumar-sharma-alx"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="25" style="vertical-align:middle"></a>
+<a href="https://www.linkedin.com/in/sharma-rahul-alx/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="25" style="vertical-align:middle"></a>
+<a href="https://www.facebook.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="25" style="vertical-align:middle"></a>
+<a href="https://www.instagram.com/_alx_sharma/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="25" style="vertical-align:middle"></a>
+<a href="https://twitter.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="25" style="vertical-align:middle"></a>
+<a href="https://stackoverflow.com/users/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="25" style="vertical-align:middle"></a>
+<a href="https://www.youtube.com/channel/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height="25" style="vertical-align:middle"></a>
+<a href="https://rahul-kumar-sharma-alx.github.io"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" height="25" style="vertical-align:middle"></a>
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahul-kumar-sharma-alx&show_icons=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-kumar-sharma-alx)
