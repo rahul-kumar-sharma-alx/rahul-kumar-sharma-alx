@@ -7,7 +7,7 @@
 
 <h3 align="center">Software & Web Developer</h3>
 
-<p align="center">🌟 Pronouns: He/Him | 🌐 Portfolio: <a href="https://alxpace.netlify.app">rahul-kumar-sharma-alx.github.io</a> | 📧 Email: rahul.sharma.alx@gmail.com</p>
+<p align="center">🌟 Pronouns: He/Him | 🌐 Portfolio: <a href="https://alxpace.netlify.app">Alxpace</a> | 📧 Email: rahul.sharma.alx@gmail.com</p>
 
 <p align="center">🎯 Currently working on AI | 📚 Learning AI & Machine Learning | 💡 Fun fact: I consider myself a hardworking individual</p>
 
