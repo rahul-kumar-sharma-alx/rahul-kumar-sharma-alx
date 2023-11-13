@@ -93,7 +93,7 @@
 
 ### GitHub Activity Graph
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=rahul-kumar-sharma-alx" alt="GitHub Activity Graph">
+  <img src="https://activity-graph.herokuapp.com/graph?username=rahul-sharma-alx" alt="GitHub Activity Graph">
 </p>
 
 ### GitHub Metrics
