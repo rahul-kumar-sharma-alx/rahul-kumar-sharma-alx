@@ -2,7 +2,7 @@
 <h1 align="center">Hi there! 👋 I'm Rahul Sharma</h1>
 
 <p align="center">
-  <img src="https://github.com/rahul-kumar-sharma-alx/rahul-sharma-alx/blob/main/banner.png" width="80%">
+  <img src="https://github.com/rahul-sharma-alx/rahul-sharma-alx/blob/main/banner.png" width="80%">
 </p>
 
 <h3 align="center">Software & Web Developer</h3>
