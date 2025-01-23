@@ -34,7 +34,7 @@ jobs:
 
       # Commit and push the changes
       - name: Commit and Push changes
-        uses: github-actions-x/commit@v1
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
