@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  generate-snake:
     # Use the latest stable Ubuntu version
     runs-on: ubuntu-latest
 
@@ -44,7 +44,7 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2
         with:
-          target_branch: "$GITHUB_OUTPUT"
+          target_branch: main  # Changed from "$GITHUB_OUTPUT" to "main"
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
